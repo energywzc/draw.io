@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T06:27:49.353Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="XL_in86yuC6PnDAOnx2L" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-28T06:29:18.277Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="yHNyWTtUKUTQm-nJKqEn" version="13.6.6" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="1102" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -46,17 +46,17 @@
         <mxCell id="677b7b8949515195-27" value="业务活动集合" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="700" y="160" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="677b7b8949515195-29" value="审批" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="700" y="231" width="170" height="20" as="geometry" />
+        <mxCell id="677b7b8949515195-29" value="审批" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="700" y="231" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="677b7b8949515195-30" value="计划" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="700" y="267" width="170" height="20" as="geometry" />
+        <mxCell id="677b7b8949515195-30" value="计划" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="700" y="267" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="677b7b8949515195-31" value="Section 7" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="700" y="374" width="170" height="20" as="geometry" />
+        <mxCell id="677b7b8949515195-31" value="草稿" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="700" y="374" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="677b7b8949515195-32" value="Section 8" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="700" y="410" width="170" height="20" as="geometry" />
+        <mxCell id="677b7b8949515195-32" value="发版" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="700" y="410" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-33" value="Section 9" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="700" y="446" width="170" height="20" as="geometry" />
@@ -76,17 +76,17 @@
         <mxCell id="677b7b8949515195-38" value="Section 14" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="700" y="624" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="677b7b8949515195-39" value="版本构建" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="700" y="303" width="170" height="20" as="geometry" />
+        <mxCell id="677b7b8949515195-39" value="版本构建" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="700" y="303" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="677b7b8949515195-40" value="需求录入" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="700" y="339" width="170" height="20" as="geometry" />
+        <mxCell id="677b7b8949515195-40" value="需求录入" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="700" y="339" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-41" value="Section 15" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="700" y="660" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_-NGtjVIes7nd89tp72T-2" value="会签" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="700" y="195" width="170" height="20" as="geometry" />
+        <mxCell id="_-NGtjVIes7nd89tp72T-2" value="会签" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="700" y="195" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_-NGtjVIes7nd89tp72T-7" value="紧急开发测试流程设计" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="30" y="132" width="150" height="28" as="geometry" />
